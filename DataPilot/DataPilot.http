@@ -1,0 +1,6 @@
+@DataPilot_HostAddress = http://localhost:5157
+
+GET {{DataPilot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
